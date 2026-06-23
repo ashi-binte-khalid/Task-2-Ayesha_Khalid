@@ -27,3 +27,5 @@ This repository contains my internship task submission.
 
 ## Author
 Ayesha Khalid
+
+**Note:** This project was completed as an internship task assigned by DecodeLabs.
